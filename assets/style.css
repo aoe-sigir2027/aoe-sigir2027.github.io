@@ -72,7 +72,7 @@ h1, h2, h3 { margin-top: 0; text-wrap: balance; }
   border-bottom: 1px solid var(--line);
   background:
     linear-gradient(90deg, #fff 0%, #fff 43%, rgba(255,255,255,.95) 52%, rgba(255,255,255,.35) 72%, rgba(255,255,255,.08) 100%),
-    url("hong-kong-harbour.webp") 82% center / cover no-repeat;
+    radial-gradient(ellipse at 90% 30%, #cce8e7 0%, #e9e8f4 45%, #f6f9fc 80%);
 }
 .hero::after { content: ""; position: absolute; inset: auto 0 0; height: 90px; background: linear-gradient(to bottom, transparent, rgba(255,255,255,.8)); pointer-events: none; }
 .hero > .container { position: relative; z-index: 2; padding-top: 88px; padding-bottom: 82px; }
@@ -256,7 +256,7 @@ h1, h2, h3 { margin-top: 0; text-wrap: balance; }
   .site-nav { display: none; position: absolute; top: 70px; left: 18px; right: 18px; padding: 14px; flex-direction: column; align-items: stretch; border: 1px solid rgba(198,213,221,.9); border-radius: var(--radius); background: rgba(255,255,255,.96); -webkit-backdrop-filter: blur(18px); backdrop-filter: blur(18px); box-shadow: var(--shadow); }
   .site-nav.is-open { display: flex; }
   .site-nav a { padding: 11px 13px; }
-  .hero { min-height: 0; background: linear-gradient(180deg, rgba(255,255,255,.96) 0%, rgba(255,255,255,.78) 56%, rgba(255,255,255,.18) 100%), url("hong-kong-harbour.webp") center bottom / cover no-repeat; }
+  .hero { min-height: 0; background: linear-gradient(180deg, rgba(255,255,255,.96) 0%, rgba(255,255,255,.78) 56%, rgba(255,255,255,.18) 100%), radial-gradient(ellipse at 80% 50%, #cce8e7, #e9e8f4, #f6f9fc); }
   .hero > .container { padding-top: 70px; padding-bottom: 310px; }
   .hero-copy { max-width: 850px; }
   .hero h1 { font-size: clamp(3.4rem, 8vw, 4.5rem); }
@@ -439,3 +439,8 @@ h1, h2, h3 { margin-top: 0; text-wrap: balance; }
 @media (max-width: 1080px) {
   .section-rail { display: none; }
 }
+
+/* Proposal-stage status, shared across all pages. */
+.migration-notice { padding: 1rem 0; background: #fff5dd; color: #4b3b20; font-size: .9rem; line-height: 1.6; }
+.migration-notice a { text-decoration: underline; }
+.date-tba { display: block; font-size: 1.7rem; font-weight: 700; line-height: 1.2; }
