@@ -129,7 +129,7 @@ h1, h2, h3 { margin-top: 0; text-wrap: balance; }
 .about-copy p:first-child { color: var(--ink); font-size: 1.28rem; }
 .about-copy p + p { margin-top: 20px; }
 
-.date-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.date-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
 .date-item { min-height: 190px; padding: 28px; border: 1px solid var(--line); border-radius: var(--radius); background: white; }
 .date-item.is-key { border: 2px solid #9cd2cb; background: #edf8f6; }
 .date-item time { display: block; color: var(--navy); font-family: Georgia, serif; font-size: 1.8rem; font-weight: 600; line-height: 1.05; }
