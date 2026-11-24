@@ -6,7 +6,7 @@ Proposal-stage website for the Workshop on Agent-in-the-Loop Optimization for E-
 
 Workshop content is synchronized with `../paper/main-sigir2027.tex` and its `aoe@sigir2027/Section/` inputs as of November 24, 2026, paper commit `e05cf01`.
 
-The invited-speaker pages list Chao Huang (The University of Hong Kong) and Qilin Qi (Amazon), with participation to be reconfirmed. Qilin Qi uses a clearly labeled initials placeholder until a portrait is supplied. The eight-session afternoon agenda matches the proposal, without the earlier lightning introductions, small-group discussions, or plenary synthesis. All submission types remain 4–8 pages excluding references, with single-blind review.
+The invited-speaker pages list Chao Huang (The University of Hong Kong) and Qilin Qi (Amazon), without participation-status badges. Keynote duration labels display 30 min. Chao Huang's expanded biography draws on his HKU Institute of Data Science profile. Qilin Qi's portrait comes from the WSDM 2026 GenAI4SM keynote page, with the source recorded in `assets/photo-sources.txt`. The eight-session afternoon agenda matches the proposal, without the earlier lightning introductions, small-group discussions, or plenary synthesis. All submission types remain 4–8 pages excluding references, with single-blind review.
 
 The separate `../website/` checkout is the archived WSDM website and is not the deployment source for this SIGIR site.
 
@@ -14,7 +14,7 @@ The separate `../website/` checkout is the archived WSDM website and is not the 
 
 Workshop acceptance and official SIGIR 2027 workshop dates are pending. Every page labels the timeline as provisional, based on the [SIGIR 2026 workshop call](https://sigir2026.org/en-AU/pages/submissions/workshop-proposals) with the year changed to 2027. Paper submission: April 17; notification: May 21; workshop: July 24. CFP announcement follows proposal acceptance. Dates are AoE; program times are local to San Jose (PDT, UTC−7).
 
-See `../paper/README.md` for the separate proposal timeline and outstanding proposal requirements. [SIGIR 2027](https://sigir2027.org/) lists San Jose, California, USA as the host city. Speaker participation must be reconfirmed for the new event.
+See `../paper/README.md` for the separate proposal timeline and outstanding proposal requirements. [SIGIR 2027](https://sigir2027.org/) lists San Jose, California, USA as the host city.
 
 ## Local preview
 

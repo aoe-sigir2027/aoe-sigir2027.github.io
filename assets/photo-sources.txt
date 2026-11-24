@@ -6,3 +6,8 @@ Public profile-photo sources added 2026-10-08:
 
 The remaining portraits pre-existed in this repository and were converted to local WebP copies for consistent presentation and smaller transfer size.
 - Hong Kong hero: Jimmy Chan / Pexels, https://www.pexels.com/photo/city-942209/
+
+Public profile-photo source added 2026-11-24:
+- Qilin Qi (Amazon Prime Video): https://genai4streamingmedia-workshop.github.io/wsdm/keynotes.html
+  Original image: https://genai4streamingmedia-workshop.github.io/wsdm/static/images/qilinqi2.jpeg
+  Converted to a square local WebP portrait without upscaling.
