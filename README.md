@@ -6,7 +6,7 @@ Proposal-stage website for the Workshop on Agent-in-the-Loop Optimization for E-
 
 Workshop content is synchronized with `../paper/main-sigir2027.tex` and its `aoe@sigir2027/Section/` inputs as of November 24, 2026, paper commit `e05cf01`.
 
-The invited-speaker pages list Chao Huang (The University of Hong Kong) and Qilin Qi (Amazon), without participation-status or duration badges. Chao Huang's expanded biography draws on his HKU Institute of Data Science profile. Qilin Qi's portrait comes from the WSDM 2026 GenAI4SM keynote page, with the source recorded in `assets/photo-sources.txt`. The eight-session afternoon agenda matches the proposal, without the earlier lightning introductions, small-group discussions, or plenary synthesis. All submission types remain 4–8 pages excluding references, with single-blind review.
+The invited-speaker pages list Chao Huang (The University of Hong Kong) and Qilin Qi (Amazon), without participation-status or duration badges. Chao Huang's expanded biography draws on his HKU Institute of Data Science profile. Qilin Qi's portrait comes from the WSDM 2026 GenAI4SM keynote page, with the source recorded in `assets/photo-sources.txt`. The eight-session afternoon agenda matches the proposal, without the earlier lightning introductions, small-group discussions, or plenary synthesis. All submission types remain 4–8 pages excluding references, with double-blind review.
 
 The separate `../website/` checkout is the archived WSDM website and is not the deployment source for this SIGIR site.
 
