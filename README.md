@@ -12,7 +12,7 @@ The separate `../website/` checkout is the archived WSDM website and is not the 
 
 ## Status and dates
 
-Displayed dates are unchanged from the proposal source: paper submission April 17, author notification May 21, and workshop July 24, 2027. Public pages omit proposal-stage notices and date qualifiers at the organizers' request. Paper deadlines are AoE, and program times are local to San Jose (PDT, UTC−7).
+The workshop day is July 23, 2027, following the official [SIGIR 2027 schedule](https://sigir2027.org/). Paper submission April 17 and author notification May 21 are unchanged from the proposal source. Public pages omit proposal-stage notices and date qualifiers at the organizers' request. Paper deadlines are AoE, and program times are local to San Jose (PDT, UTC−7).
 
 See `../paper/README.md` for the separate proposal timeline and outstanding proposal requirements. [SIGIR 2027](https://sigir2027.org/) lists San Jose, California, USA as the host city.
 
